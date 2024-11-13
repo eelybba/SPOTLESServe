@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210364941225",
+    "project_id": "spotlesserve",
+    "storage_bucket": "spotlesserve.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210364941225:android:621dbb0b68f8ca90a7bab8",
+        "android_client_info": {
+          "package_name": "com.example.adminspot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiiL_lU9GmcNrJwD-umlDtwRECr_6yaZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
